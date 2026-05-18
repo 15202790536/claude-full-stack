@@ -7,7 +7,6 @@
   "plugins": [
     {
       "name": "full-stack-plugin",
-      "source": "https://github.com/15202790536/claude-full-stack.git",
       "version": "1.0.0",
       "path": "plugins/full-stack-plugin/.claude-plugin",
       "description": "全栈开发流程插件，从原型图生成结构化PRD文档"
