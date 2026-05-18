@@ -1,5 +1,6 @@
 {
   "name": "full-stack-marketplace",
+  "description": "全栈开发流程插件市场",
   "owner": {
     "name": "Feng",
     "email": "1007676252@qq.com"
@@ -8,8 +9,13 @@
     {
       "name": "full-stack-plugin",
       "version": "1.0.0",
-      "path": "plugins/full-stack-plugin/.claude-plugin",
-      "description": "全栈开发流程插件，从原型图生成结构化PRD文档"
+      "description": "全栈开发流程插件，从原型图生成结构化PRD文档",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/15202790536/claude-full-stack.git",
+        "path": "plugins/full-stack-plugin/.claude-plugin",
+        "ref": "master"
+      }
     }
   ]
 }
