@@ -1,5 +1,14 @@
 {
-  "name": "full-stack-market",
-  "version": "1.0.0",
-  "description": "全站开发"
+  "owner": {
+    "name": "Feng",
+    "email": "1007676252@qq.com"
+  },
+  "plugins": [
+    {
+      "name": "full-stack-plugin",
+      "version": "1.0.0",
+      "path": "../plugins/full-stack-plugin/.claude-plugin",
+      "description": "全栈开发流程插件，从原型图生成结构化PRD文档"
+    }
+  ]
 }
