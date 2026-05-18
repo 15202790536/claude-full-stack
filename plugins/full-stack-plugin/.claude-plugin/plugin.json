@@ -1,8 +1,9 @@
 {
-  "name": "full-stack-market",
+  "name": "full-stack-plugin",
   "version": "1.0.0",
-  "description": "全站开发流程插件",
-  "skills": {
-    "prototype-prd": "./skills/prototype-prd/SKILL.md"
+  "description": "全栈开发流程插件，从原型图生成结构化PRD文档",
+  "author": {
+    "name": "Feng",
+    "email": "1007676252@qq.com"
   }
 }
